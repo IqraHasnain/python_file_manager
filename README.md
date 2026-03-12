@@ -6,7 +6,7 @@ This project allows users to create, read, update, and delete files directly fro
 # Features
 - Create a new file and write content into it
 - Read the content of an existing file
--  Update files by:
+- Update files by:
   - Renaming the file
   - Overwriting file content
   - Appending new content
@@ -37,12 +37,12 @@ main.py contains the full logic for creating, reading, updating, and deleting fi
 
 # How to Run the Project
 1. Clone the repository
-git clone https://github.com/yourusername/python-file-manager.git
+git clone https://github.com/IqraHasnain/python-file-manager.git
 
 2. Navigate to the project folder
 cd python-file-manager
 
-3.Run the program
+3. Run the program
 python main.py
 
 4. Follow the instructions shown in the terminal.
