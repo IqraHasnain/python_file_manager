@@ -29,10 +29,11 @@ This project helped strengthen understanding of:
 - User input handling
 
 # Project Structure
+```
 python-file-manager
 │
 └── main.py
-
+```
 main.py contains the full logic for creating, reading, updating, and deleting files.
 
 # How to Run the Project
