@@ -68,7 +68,7 @@ Possible improvements for this project include:
 Created as a Python learning project to practice file handling and strengthen programming fundamentals.
 
 # Demo (CLI Output)
-
+```
 Example of how the program runs in the terminal:
 
 ------ Python File Manager ------
@@ -84,3 +84,4 @@ Enter file name: notes.txt
 Enter content for the file: Python practice project
 
 File created successfully.
+```
